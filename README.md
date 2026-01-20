@@ -1,1 +1,2 @@
 # Task-2
+In this task, we created a Python script to demonstrate different data types such as integers, floats, strings, and booleans. We printed the type of each variable, performed basic arithmetic operations, and converted user input from string to numeric types using type casting with error handling. The program also showed how to combine strings and numbers correctly and illustrated Python’s dynamic typing by reassigning a variable with values of different types.
